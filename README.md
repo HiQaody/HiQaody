@@ -4,6 +4,11 @@ Salut ! Je suis **Jacquinot Randrianomenjanahary**, un **développeur full-stack
 
 ---
 
+**🗓️ Mise à jour automatique :** _Thursday 24 July 2025_  
+📝 Quote service unavailable.
+
+---
+
 ## 🚀 À propos de moi
 
 - 💻 **Compétences principales :**
@@ -41,7 +46,7 @@ Salut ! Je suis **Jacquinot Randrianomenjanahary**, un **développeur full-stack
 - **Technologies :** Flutter, SQLite.
 - **Résultat :** Une adoption réussie dans plusieurs régions.
 
-*Découvrez plus de projets dans [mon portfolio](https://hiqaody.vercel.com).*  
+*Découvrez plus de projets dans [mon portfolio](https://jacquinot-randria.vercel.app).*
 
 ---
 
@@ -57,7 +62,10 @@ Salut ! Je suis **Jacquinot Randrianomenjanahary**, un **développeur full-stack
 
 - **E-mail :** [hiqaody@gmail.com](mailto:hiqaody@gmail.com)  
 - **LinkedIn :** [Jacquinot Randrianomenjanahary](https://www.linkedin.com/in/jacquinotrandrianomenjanahary)  
-- **GitHub :** [@HiQaody](https://github.com/jacquinotrandria)  
-- **Portfolio :** [hiqaody.vercel.com](https://hiqaody.vercel.com)  
+- **GitHub :** [@HiQaody](https://github.com/HiQaody)  
+- **Portfolio :** [hiqaody.vercel.com](https://jacquinot-randria.vercel.app)  
 
-✨ *"Ensemble, construisons des solutions exceptionnelles !"*
+---
+
+_Automatically updated with Python 🐍 & GitHub Actions._
+
